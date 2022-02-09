@@ -1,5 +1,5 @@
 {
-    "name": "barryvdh/laravel-elfinder",
+    "name": "dilneiss/laravel-elfinder",
     "keywords": [
         "laravel",
         "elfinder",
@@ -16,7 +16,6 @@
     ],
     "require": {
         "php": ">=7.0",
-        "illuminate/support": "^5.5|^6|^7|^8|^9.0",
         "studio-42/elfinder": "~2.1.49",
         "barryvdh/elfinder-flysystem-driver": "^0.3",
         "league/flysystem": "^1.0|^3.0",

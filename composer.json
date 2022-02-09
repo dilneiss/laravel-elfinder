@@ -16,8 +16,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "studio-42/elfinder": "~2.1.49",
-        "league/flysystem-cached-adapter": "^1.0"
+        "studio-42/elfinder": "~2.1.49"
     },
     "autoload": {
         "psr-4": {
